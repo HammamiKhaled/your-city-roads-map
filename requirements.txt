@@ -1,0 +1,3 @@
+pip install osmnx
+pip install networkx
+pip install scikit-learn
